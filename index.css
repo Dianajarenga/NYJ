@@ -73,10 +73,11 @@ h3{
 }
 .travel{
     padding: 40px;
-}
-html{
-  /* background: linear-gradient(to right,pink,white)*/
+
 
     
 
+}
+script{
+    background-color:linear-gradient(to right ,lightblue,white)
 }
