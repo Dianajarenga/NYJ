@@ -1,0 +1,32 @@
+h1{color: rgba(109, 15, 117, 0.705);
+   margin: 20px; ;
+    text-align: center;
+text-decoration-line: underline;}
+#subHeading{
+    text-decoration-line: underline;
+color: rgb(123, 17, 209);  ;
+margin: 20px; 
+}
+.paragraph{
+    
+    border: 2px;
+    color: rgb(16, 16, 17); 
+    width: 400px;
+    margin: 20px;
+    padding: 20px;
+    border-style:hidden;
+    background-color: lawngreen;
+    border-color: purple;
+    
+
+}
+body{font-family: sans-serif;}
+a:link,a:hover,a:visited{color:blue
+}
+.paragraph2{
+    border: 2px;
+    margin: 20px;
+    padding: 20px;
+    width: 400px;
+    border-style: groove;
+}

@@ -1,0 +1,72 @@
+
+.logo{
+    border-style: ridge;
+
+}
+h1{
+    
+    text-align: center;
+    
+    color: rgba(5, 5, 7, 0.349);
+    margin: 50px;
+    padding-top: 0px;
+    padding: 50px;
+    animation-name: inherit;
+    background-color:  rgba(177, 166, 14, 0.068)   ;
+
+}
+nav{ 
+    background-image: url(" https://instagram.fnbo12-1.fna.fbcdn.net/v/t51.2885-19/s150x150/107867923_3108650015877864_7359756004792626556_n.jpg?tp=1&_nc_ht=instagram.fnbo12-1.fna.fbcdn.net&_nc_ohc=ilEdXbtFocUAX8grB11&edm=AP_V10EBAAAA&ccb=7-4&oh=d2216bb20df70b32d32f03f9baf29264&oe=60BD7650&_nc_sid=4f375e ") ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    text-align: right;
+    margin: 50px;
+}
+a{ 
+    padding: 40px;
+    
+    color: rgb(18, 35, 61);
+}
+a:hover{
+    color: rgb(182, 115, 115);
+}
+.firstd{
+    background-color: rgba(13, 25, 189, 0.096);
+}
+.my-body{
+    background-color: rgba(10, 5, 10, 0.205);
+}
+.div2{
+    text-align: center;
+
+}
+.bio{
+    margin: 50px;
+    padding: 20px;
+    border-style: groove;
+    background-color:rgba(121, 80, 110, 0.226)   ;
+    text-align: center;
+
+}
+h2{
+    border-style:hidden;
+    
+    margin: 40px;
+    color: rgba(58, 43, 57, 0.61);
+
+}
+h3{
+    text-align:right;
+    color: rgba(0, 0, 0, 0.644);
+    padding-bottom: 60px;
+    text-align: center;
+}
+.p{ margin-left: 280px;
+    padding-left: 280px;
+    width: 500px;
+    text-align:justify;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 0.473);
+}
