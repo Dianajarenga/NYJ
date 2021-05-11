@@ -1,1 +1,1 @@
-alert("Welcome to my personal website <br>click okay to continue")
+alert("Welcome to my personal website click okay to continue")
