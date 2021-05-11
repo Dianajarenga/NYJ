@@ -22,6 +22,7 @@ nav{
     
     text-align: right;
     margin: 50px;
+  /*  position:sticky;*/
 }
 a{ 
     padding: 40px;
@@ -72,4 +73,10 @@ h3{
 }
 .travel{
     padding: 40px;
+}
+html{
+  /* background: linear-gradient(to right,pink,white)*/
+
+    
+
 }
