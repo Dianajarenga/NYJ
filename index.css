@@ -57,11 +57,11 @@ h2{
 h3{
     text-align:left;
     color: rgb(0, 0, 0);
-    margin: 20px;
+    margin: 50px;
     
 }
-.p{ margin-left: 200px;
-    padding-left: 100px;
+.p{ margin: 50px;
+    padding: 50px;
     width: 400px;
     text-align:justify;
     font-size: larger;
@@ -70,7 +70,7 @@ h3{
     
 }
 .travel{
-    padding: 40px;
+    padding: 50px;
 
 
     
