@@ -9,11 +9,12 @@ h1{
     padding: 50px;
     animation-name: inherit;
     background-color:  rgba(14, 85, 177, 0.624)   ;
+    width: fit-content;
 
 }
 nav{ 
    
-    background-repeat: no-repeat;
+
     background-color: white;
     width:fit-content;
     text-align: right;
@@ -34,9 +35,11 @@ a:hover{
 }
 .my-body{
     background-color: rgb(255, 255, 255);
+    width: fit-content;
 }
 .div2{
     text-align: center;
+    width: fit-content;
 
 }
 .bio{
