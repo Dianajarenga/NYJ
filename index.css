@@ -68,8 +68,8 @@ h3{
     color: rgba(0, 0, 0, 0.844);
     margin: 50px;
     padding-right:100px;
-    border-style: hidden;
-    border-top: indigo;
+    border-style: groove;
+    background-color: indigo;
 }
 .p{ margin: 50px;
     padding-left: 200px;
