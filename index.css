@@ -1,15 +1,16 @@
 
 h1{
     
-    text-align: center;
-    
+    text-align: left;
+    font: size 200%; ;
     color: rgba(5, 5, 7, 0.905);
     margin: 150px;
     padding-top: 0px;
     padding: 150px;
     animation-name: inherit;
     background-color:  rgba(14, 85, 177, 0.624)   ;
-    
+    background-size: 1000px;
+    background-repeat: no-repeat;
 
 }
 nav{ 
@@ -33,6 +34,7 @@ a:hover{
 }
 .firstd{
     background-color: white;
+    padding: 0px;
     
 
 }
