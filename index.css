@@ -1,8 +1,4 @@
 
-.logo{
-    border-style: ridge;
-
-}
 h1{
     
     text-align: center;
@@ -12,31 +8,32 @@ h1{
     padding-top: 0px;
     padding: 50px;
     animation-name: inherit;
-    background-color:  rgba(177, 166, 14, 0.068)   ;
+    background-color:  rgba(14, 85, 177, 0.624)   ;
 
 }
 nav{ 
-    background-image: url("https://media1.thehungryjpeg.com/thumbs2/ori_3656551_o95fldfwwiil23dtuqgelwoz71555wj94m63ddwm_monogram-dj-logo-design.jpg ") ;
+   
     background-repeat: no-repeat;
-    background-size: contain;
+    background-color: white;
     
     text-align: right;
-    margin: 50px;
+    
   /*  position:sticky;*/
 }
 a{ 
-    padding: 40px;
-    
-    color: rgb(18, 35, 61);
+    padding: 20px;
+    text-align: right;
+    color: rgb(0, 0, 0);
 }
 a:hover{
     color: rgb(182, 115, 115);
 }
 .firstd{
-    background-color: rgba(13, 25, 189, 0.096);
+    background-color: white;
+
 }
 .my-body{
-    background-color: rgba(10, 5, 10, 0.205);
+    background-color: rgb(255, 255, 255);
 }
 .div2{
     text-align: center;
@@ -46,25 +43,25 @@ a:hover{
     margin: 50px;
     padding: 20px;
     border-style: groove;
-    background-color:rgba(121, 80, 110, 0.226)   ;
-    text-align: center;
+    background-color:rgb(255, 255, 255)   ;
+    text-align: justify;
 
 }
 h2{
     border-style:hidden;
     
     margin: 40px;
-    color: rgba(58, 43, 57, 0.61);
+    color: rgba(255, 255, 255, 0.61);
 
 }
 h3{
-    text-align:right;
-    color: rgba(0, 0, 0, 0.644);
-    padding-bottom: 60px;
-    text-align: center;
+    text-align:left;
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    
 }
 .p{ margin-left: 200px;
-    padding-left: 200px;
+    padding-left: 100px;
     width: 400px;
     text-align:justify;
     font-size: larger;
@@ -79,6 +76,4 @@ h3{
     
 
 }
-script{
-    background-color:linear-gradient(to right ,lightblue,white)
-}
+
