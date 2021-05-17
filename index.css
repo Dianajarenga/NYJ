@@ -25,12 +25,14 @@ a{
     padding: 20px;
     text-align: right;
     color: rgb(0, 0, 0);
+    width: fit-content;
 }
 a:hover{
     color: rgb(182, 115, 115);
 }
 .firstd{
     background-color: white;
+    width: fit-content;
 
 }
 .my-body{
@@ -48,19 +50,21 @@ a:hover{
     border-style: groove;
     background-color:rgb(255, 255, 255)   ;
     text-align: justify;
+    width: fit-content;
 
 }
 h2{
     border-style:hidden;
-    
+    width: fit-content;
     margin: 40px;
-    color: rgba(255, 255, 255, 0.61);
+    color: rgba(17, 9, 9, 0.61);
 
 }
 h3{
     text-align:left;
-    color: rgb(0, 0, 0);
+    color: rgba(0, 0, 0, 0.844);
     margin: 50px;
+    width: fit-content;
     
 }
 .p{ margin: 50px;
@@ -69,7 +73,7 @@ h3{
     text-align:justify;
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgba(0, 0, 0, 0.473);
+    color: rgba(0, 0, 0, 0.734);
     
 }
 .travel{
