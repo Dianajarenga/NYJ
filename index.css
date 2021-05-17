@@ -22,10 +22,10 @@ nav{
   /*  position:sticky;*/
 }
 a{ 
-    padding: 20px;
+    padding: 40px;
     text-align: right;
     color: rgb(0, 0, 0);
-    width: fit-content;
+    
 }
 a:hover{
     color: rgb(182, 115, 115);
@@ -46,7 +46,7 @@ a:hover{
 }
 .bio{
     margin: 50px;
-    padding: 20px;
+    padding: 50px;
     border-style: groove;
     background-color:rgb(255, 255, 255)   ;
     text-align: justify;
@@ -56,7 +56,7 @@ a:hover{
 h2{
     border-style:hidden;
     width: fit-content;
-    margin: 40px;
+    margin: 50px;
     color: rgba(17, 9, 9, 0.61);
 
 }
