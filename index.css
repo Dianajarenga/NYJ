@@ -27,10 +27,11 @@ a{
     text-align: right;
     color: rgb(0, 0, 0);
     padding: 50px;
-    
+    border-style:hidden;
+    border-radius: 100px;
 }
 a:hover{
-    color: rgb(182, 115, 115);
+    color: rgb(127, 115, 182);
 }
 .firstd{
     background-color: white;
@@ -66,10 +67,10 @@ h2{
 h3{
     text-align:left;
     color: rgba(0, 0, 0, 0.844);
-    margin: 50px;
+    
     padding-right:100px;
-    border-style: groove;
-    background-color: blueviolet;
+    border-style: hidden;
+    
 }
 .p{ margin: 50px;
     padding-left: 200px;
