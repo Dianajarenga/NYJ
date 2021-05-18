@@ -2,19 +2,20 @@
 h1{
     
     text-align: left;
+    text-align: justify;
     font: size 200%; ;
     color: rgba(5, 5, 7, 0.905);
-    margin: 150px;
-    padding-top: 0px;
-    padding: 150px;
+    margin: 100px;
+    background-position: center;
+    padding: 50px;
     animation-name: inherit;
-    background-color:  rgba(14, 85, 177, 0.624)   ;
-    background-size: 1000px;
+    background-color:  #892be246   ;
+    size:1000px;
     background-repeat: no-repeat;
 
 }
 nav{ 
-   
+   margin: 100px;
    
     background-color: white;
     
@@ -26,12 +27,13 @@ a{
     
     text-align: right;
     color: rgb(0, 0, 0);
-    padding: 50px;
+    padding: 40px;
     border-style:hidden;
-    border-radius: 100px;
+    
+    text-decoration-line: none;
 }
 a:hover{
-    color: rgb(127, 115, 182);
+    color: rgb(241, 40, 241);
 }
 .firstd{
     background-color: white;
@@ -41,7 +43,7 @@ a:hover{
 }
 .my-body{
     background-color: rgb(255, 255, 255);
-    width: fit-content;
+
 }
 .div2{
     text-align: center;
@@ -54,12 +56,12 @@ a:hover{
     border-style: groove;
     background-color:rgb(255, 255, 255)   ;
     text-align: justify;
-    width: fit-content;
+    
 
 }
 h2{
     border-style:hidden;
-    width: fit-content;
+    
     margin: 50px;
     color: rgba(17, 9, 9, 0.61);
 
@@ -67,14 +69,15 @@ h2{
 h3{
     text-align:left;
     color: rgba(0, 0, 0, 0.844);
-    
+    background-color: #892be246;
     padding-right:100px;
-    border-style: hidden;
+    padding: 50px;
+    
     
 }
 .p{ margin: 50px;
     padding-left: 200px;
-    width: 1000px;
+    width: 900px;
     text-align:justify;
     font-size: large;
     font-family: Arial, Helvetica, sans-serif;
